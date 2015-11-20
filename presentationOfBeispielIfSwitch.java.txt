@@ -1,0 +1,21 @@
+1. Länge eines Arrays bestimmen und ausgeben
+
+2. if-Anweisung mit argsLaenge==0 
+    und else schreiben
+3. Semantisch äquivalente switch-Anweisung 
+    schreiben (break; vergessen)
+4. break; einfügen
+
+5. Beides erweitern um Fall argsLaenge==1, 
+    dann eingegebene Zahl aus args[1] lesen, 
+    inkrementieren und ausgeben
+6. Kurzer Hinweis, wie man die 
+    Fehlermeldung liest
+7. Dann args[1] in args[0] ändern und testen
+
+8. GRUNDSÄTZLICHES:
+    - Erst Aufgabe ganz lesen und verstehen, dann anfangen (auch für Projekt wichtig)
+        - Wenn Variable deklariert werden soll, soll sie auch verwendet werden!
+    - Ohne eingetragene Gruppe im Moodle ist keine Abgabe im Moodle möglich!
+    - Hinweise auf Aufgabenblatt lesen und Formalitäten einhalten!
+    - Jeder sollte alles selber machen! (nur nachvollziehen reicht nicht)
