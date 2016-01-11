@@ -1,0 +1,32 @@
+1. Rekursive Funktion recFun(int x) ohne Abbruchbedingung bauen
+
+2. Ausführen und Exception in error.log umleiten, da zu groß für Konsolenanzeige
+
+3. Abbruchbedingung hinzufügen. WAS TUT DIE FUNKTION? => Tafel drei Schritte
+
+4. Iterative Methode schreiben und vergleichen
+
+5. Globales x = 31415, Konstruktor, getX() hinzufügen aber this weglassen
+
+6. Zwei Objekte deklarieren, aber nicht initialisieren
+
+7. Nullpointer-Exception => mit verschiedenen x initialisieren
+
+8. Alle x ausgeben
+
+9. this einfügen
+
+10. Alle x ausgeben
+
+ALLGEMEIN: Ausgabe 4.4: Geben Sie an, was auf der Konsole ausgegeben wird 
+                        und welchen Typ die Ausgabewerte haben.
+                        
+                        Nicht einfach kopieren und ausführen,
+                        sondern nachdenken (und dann evtl. prüfen)
+           
+           LEST! Bücher: Schrödinger programmiert Java (Anfänger)
+                         Java ist auch eine Insel
+                         
+                 Webseiten: Stackexchange
+                            Java API
+                            Moodle, 
