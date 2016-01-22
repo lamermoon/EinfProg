@@ -1,0 +1,23 @@
+1. geruest.txt in IntStack.java kopieren, den implementierten Stack kurz vorstellen und ausprobieren
+
+2. ArrayIndexOutOfBoundsException provozieren => Absturz
+
+3. Schreibe StackException.java mit Standard-Konstruktor => Ausführen
+
+4. Füge "throws StackException" zu push-/pop-Signatur hinzu => Ausführen
+
+5. Füge "throws StackException" zu main-Signatur hinzu => Ausführen
+
+6. API Exception zeigen => Integer-Konstruktor hinzufügen für aussagekräftigere Ausgabe => Ausführen
+
+7. try-catch-Blöcke hinzufügen, throws-Teil aus main-Signatur entfernen
+
+-------------------------------------------------------------------------------------------------------------
+
+HINWEISE:
+
+-- Verweis auf Java-Projekt: JSONReader.java behandelt unten Exceptions, wer sich traut, kann es anpassen.
+
+-- Kopieren von Übungsabgaben hat keinen Nutzen...
+
+-- Klausuranmeldung!!!
